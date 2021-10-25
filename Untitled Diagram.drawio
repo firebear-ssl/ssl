@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T13:24:41.605Z" agent="5.0 (Windows)" etag="XVU1GgZpH7b2R7MAHMWG" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T13:25:33.485Z" agent="5.0 (Windows)" etag="LoAWX2dTjb4mvhE6-07N" version="14.8.1" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="815" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="2b4e8129b02d487f-6" value="申请购买方案" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
           <mxGeometry x="130" y="56.49999999999997" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="H3AL1TPmm5qLubvGPdo7-1" value="支付费用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="2b4e8129b02d487f-2">
+        <mxCell id="H3AL1TPmm5qLubvGPdo7-1" value="支付费用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="2b4e8129b02d487f-2">
           <mxGeometry x="360" y="56.5" width="70" height="27" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-3" value="绮丽来" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="2b4e8129b02d487f-1" vertex="1">
